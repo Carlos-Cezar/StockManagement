@@ -1,7 +1,0 @@
-#"Notebook_Cinza_01": "Na unidade.", 
-
-count = 0
-
-while count < 5:
-  count += 1
-  print('"Notebook_Branco_1' + str(count) + '": "Na unidade.", ')
